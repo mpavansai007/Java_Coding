@@ -1,2 +1,3 @@
-2026/02/05-20:09:28.353 748c Creating DB E:\Automations\BDD_Automations_Framework\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2026/02/05-20:09:28.390 748c Reusing MANIFEST E:\Automations\BDD_Automations_Framework\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/05-20:42:34.570 5818 Reusing MANIFEST E:\Automations\BDD_Automations_Framework\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/05-20:42:34.577 5818 Recovering log #3
+2026/02/05-20:42:34.579 5818 Reusing old log E:\Automations\BDD_Automations_Framework\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
